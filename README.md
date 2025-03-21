@@ -3,4 +3,4 @@ Created POC for datanitiv to predict Employee Attrition and Shrinkage Analysis i
 
 We add AI capabilities to DATANITIV to better serve their clients.
 
-I built a model that predicts the employee attrition rates and also the Shirinkage Analysis/prediction in a Call Center/BPO at any given time
+I built a model that predicts the employee attrition rates and also the Shirinkage Analysis/prediction in a Call Center/BPO at any given time - So that they can plan their workforce and handle customer interactions in a structured manner
